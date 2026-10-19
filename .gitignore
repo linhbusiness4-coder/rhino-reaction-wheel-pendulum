@@ -1,0 +1,19 @@
+# Backup & temp files
+*.3dmbak
+*.bak
+*.tmp
+*~
+.DS_Store
+Thumbs.db
+
+# CAD / slicer scratch
+*.3dm.bak
+**/old/
+**/archive/
+gcode/
+*.gcode
+*.bgcode
+
+# OS / editor noise
+.vscode/
+.idea/
